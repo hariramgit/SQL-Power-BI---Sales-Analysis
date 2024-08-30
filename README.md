@@ -40,15 +40,18 @@ By moving to a dynamic dashboard format, we aim to provide stakeholders with a m
 - Compare DW and LT data to understand the difference between structured and unstructured data. We will primarily be working with Data Warehouse data.
 - Update Data Warehouse data using [sql script.](https://github.com/hariramgit/SQL-Power-BI---Sales-Analysis/blob/main/Update_base_DB_SQL)
 
+  
+
 ## Data Preparation and Update:
 
 #### Data Restoration:
 Restore the provided Data Warehouse (DW) and Lightweight (LT) data backups to your SQL Server instance.
 #### Data Update:
 Execute the provided SQL script to update the Data Warehouse data accordingly.
-
 #### Business Requirements and User Stories:
 Review the provided business request, demand overview, and user stories documentation. This will help you understand the problem we aim to solve through data analysis and what constitutes a successful solution.
+
+
 
 ## Data Cleaning and Transformation:
 
@@ -78,7 +81,6 @@ Use the Business Request form to identify the tables of interest.
 Import the cleaned and prepared data into Power BI.
 
 ### Data Organization and Model Preparation:
-
 Organize and prepare tables for analysis.
 Establish relationships between tables to create a coherent data model.
 Import the Fact_Budget table and calculate necessary measures.
@@ -98,15 +100,9 @@ Display customer details using pivot tables and other relevant visual formats.
 
 ### Dashboard
 - [Download the file](https://github.com/hariramgit/SQL-Power-BI---Sales-Analysis/blob/main/Final%20Report.pbix) and open in Power BI Desktop for interactive viewing.
-- [See a screenshot](https://github.com/hariramgit/SQL-Power-BI---Sales-Analysis/blob/main/Sales%20Report.pdf) of the Dashboard in pdf.
 
 
 
-![Sales Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/images/screenshot.png)
-![Sales Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/images/screenshot.png)
-
-![Sales Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/images/screenshot.png)
-
-![Sales Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/images/screenshot.png)
+![Sales Dashboard Screenshot](https://github.com/hariramgit/SQL-Power-BI---Sales-Analysis/blob/main/Screenshot%202024-08-30%20153211.png)
 
 
