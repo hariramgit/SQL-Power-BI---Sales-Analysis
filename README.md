@@ -1,4 +1,4 @@
-# SalesAnalysis_SQL_PowerBI
+# Sales Analysis_SQL_PowerBI
 
 
 # Project Setup and Objectives
